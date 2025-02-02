@@ -4,6 +4,9 @@
 ## Desenvolvedora
 **Desenvolvido pela aluna Graziele Coelho de Alencar**
 
+## Link do vídeo da execução na BitDogLab:
+https://drive.google.com/file/d/1MiMP5I55yF8cWqjxPUIdXtgwczMS_B2A/view?usp=drive_link
+
 ## **Descrição do Projeto**
 Este projeto implementa um sistema de semáforo simples utilizando o microcontrolador Raspberry Pi Pico, LEDs e a biblioteca Pico SDK. O programa controla os estados dos LEDs (vermelho, amarelo e verde) em intervalos regulares, simulando o funcionamento de um semáforo. Além disso, o estado atual do semáforo é exibido pela porta serial.
 

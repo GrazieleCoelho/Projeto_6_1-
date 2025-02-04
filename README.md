@@ -4,8 +4,12 @@
 ## Desenvolvedora
 **Desenvolvido pela aluna Graziele Coelho de Alencar**
 
-## Link do vídeo da execução na BitDogLab:
+## Links:
+- Execução na BitDogLab:
 https://drive.google.com/file/d/1MiMP5I55yF8cWqjxPUIdXtgwczMS_B2A/view?usp=drive_link
+
+- Execução no Wokwi integrado no VS Code:
+https://drive.google.com/file/d/1nOIxOAVnCOcZ1oKCbkF6jDMOHvSei1iU/view?usp=drive_link
 
 ## **Descrição do Projeto**
 Este projeto implementa um sistema de semáforo simples utilizando o microcontrolador Raspberry Pi Pico, LEDs e a biblioteca Pico SDK. O programa controla os estados dos LEDs (vermelho, amarelo e verde) em intervalos regulares, simulando o funcionamento de um semáforo. Além disso, o estado atual do semáforo é exibido pela porta serial.
@@ -105,8 +109,9 @@ Semáforo funcionando. Estado atual: Amarelo
 
 - LED verde: GPIO 11.
 
+**Observações:**
 *Certifique-se de que os LEDs estão corretamente configurados com resistores de 330Ω.*
-
+*Na execução na BitDogLab, acende o LED azul, pois se fosse acionar o LED que é na cor amarela seria necessário combinar demais LEDs e a simulação no Woki no VS Code não sairia igual ao exemplo do professor Ricardo.*
 
 
 

@@ -8,7 +8,7 @@
 - Execução na BitDogLab:
 https://drive.google.com/file/d/1MiMP5I55yF8cWqjxPUIdXtgwczMS_B2A/view?usp=drive_link
 
-*Na execução na BitDogLab, o LED azul acende. Caso fosse acionado o LED amarelo, seria necessário combinar outros LEDs, o que resultaria em uma simulação no Wokwi do VS Code diferente do exemplo apresentado pelo professor Ricardo*
+*Na execução na BitDogLab, o LED azul acende. Caso fosse acionado o LED amarelo, seria necessário combinar outros LEDs (verde e vermelho), o que resultaria em uma simulação no Wokwi do VS Code diferente do exemplo apresentado pelo professor Ricardo*
 
 - Execução no Wokwi integrado no VS Code:
 https://drive.google.com/file/d/1nOIxOAVnCOcZ1oKCbkF6jDMOHvSei1iU/view?usp=drive_link

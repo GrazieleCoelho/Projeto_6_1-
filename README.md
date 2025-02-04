@@ -2,7 +2,7 @@
 **EMBARCATECH - UNIDADE 04**
 
 ## Desenvolvedora
-**Desenvolvido pela aluna Graziele Coelho de Alencar**
+**Aluna Graziele Coelho de Alencar**
 
 ## Links:
 - Execução na BitDogLab:

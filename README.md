@@ -13,10 +13,10 @@ https://drive.google.com/file/d/1MiMP5I55yF8cWqjxPUIdXtgwczMS_B2A/view?usp=drive
 - Execução no Wokwi integrado no VS Code:
 https://drive.google.com/file/d/1nOIxOAVnCOcZ1oKCbkF6jDMOHvSei1iU/view?usp=drive_link
 
-## **Descrição do Projeto**
+## **Descrição**
 Este projeto implementa um sistema de semáforo simples utilizando o microcontrolador Raspberry Pi Pico, LEDs e a biblioteca Pico SDK. O programa controla os estados dos LEDs (vermelho, amarelo e verde) em intervalos regulares, simulando o funcionamento de um semáforo. Além disso, o estado atual do semáforo é exibido pela porta serial.
 
-## **Funcionalidades**
+## **Funcionamento**
 1. Estados do semáforo:
 
 - Vermelho: Inicialmente ligado por 3 segundos.

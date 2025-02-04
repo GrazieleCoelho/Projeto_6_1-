@@ -8,6 +8,8 @@
 - Execução na BitDogLab:
 https://drive.google.com/file/d/1MiMP5I55yF8cWqjxPUIdXtgwczMS_B2A/view?usp=drive_link
 
+*Na execução na BitDogLab, o LED azul acende. Caso fosse acionado o LED amarelo, seria necessário combinar outros LEDs, o que resultaria em uma simulação no Wokwi do VS Code diferente do exemplo apresentado pelo professor Ricardo*
+
 - Execução no Wokwi integrado no VS Code:
 https://drive.google.com/file/d/1nOIxOAVnCOcZ1oKCbkF6jDMOHvSei1iU/view?usp=drive_link
 
@@ -109,9 +111,9 @@ Semáforo funcionando. Estado atual: Amarelo
 
 - LED verde: GPIO 11.
 
-**Observações:**
+**Observação:**
 *Certifique-se de que os LEDs estão corretamente configurados com resistores de 330Ω.*
-*Na execução na BitDogLab, acende o LED azul, pois se fosse acionar o LED que é na cor amarela seria necessário combinar demais LEDs e a simulação no Woki no VS Code não sairia igual ao exemplo do professor Ricardo.*
+
 
 
 
